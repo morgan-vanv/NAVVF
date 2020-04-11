@@ -4,8 +4,25 @@ slider:
   bg_image : "images/banner/banner-1.jpg"
   slider_item:
     # slider item loop
-    - title : "Your bright future is our mission"
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et magna aliqua. Ut enim ad minim veniam, quis nostrud exer"
+    - title : "Come and meet some of the family!"
+      content : "The 50th Annual NAVVF Reunion
+in 2020 will be
+
+Thursday, September 17th to
+Saturday, September 19th,
+in
+Cleveland, OH"
+      animation_in : "left"
+      animation_out : "right"
+      # available animation : left, right, up, down
+      button:
+        enable : true
+        label : "More Info"
+        link : "contact"
+
+    # slider item loop
+    - title : "Applications for the 2020 Lambert and Annetje Van Valkenburg Memorial Scholarship applications are now available!"
+      content : "AWARD AMOUNT: $1,500. All application materials must be submitted via email by March 1, 2020"
       animation_in : "left"
       animation_out : "right"
       # available animation : left, right, up, down
@@ -15,25 +32,14 @@ slider:
         link : "contact"
 
     # slider item loop
-    - title : "Your bright future is our mission"
+    - title : "Remember the NAVVF Store for your NAVVF Logo Gear!!"
       content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et magna aliqua. Ut enim ad minim veniam, quis nostrud exer"
       animation_in : "left"
       animation_out : "right"
       # available animation : left, right, up, down
       button:
         enable : true
-        label : "Apply now"
-        link : "contact"
-
-    # slider item loop
-    - title : "Your bright future is our mission"
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et magna aliqua. Ut enim ad minim veniam, quis nostrud exer"
-      animation_in : "left"
-      animation_out : "right"
-      # available animation : left, right, up, down
-      button:
-        enable : true
-        label : "Apply now"
+        label : "Shop Now"
         link : "contact"
 
 
@@ -43,22 +49,22 @@ banner_feature:
   image : "images/banner/banner-feature.png"
   feature_item:
     # feature item loop
-    - name : "Scholorship News"
+    - name : "Geneology Records"
       icon : "ti-book" # icon pack : https://themify.me/themify-icons
       content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore  dolore magna aliqua. Ut enim ad"
 
     # feature item loop
-    - name : "Our Notice Board"
+    - name : "Stories"
       icon : "ti-blackboard" # icon pack : https://themify.me/themify-icons
       content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore  dolore magna aliqua. Ut enim ad"
 
     # feature item loop
-    - name : "Our Achievements"
+    - name : "Membership"
       icon : "ti-agenda" # icon pack : https://themify.me/themify-icons
       content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore  dolore magna aliqua. Ut enim ad"
 
     # feature item loop
-    - name : "Admission Now"
+    - name : "Family Reunion"
       icon : "ti-write" # icon pack : https://themify.me/themify-icons
       content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore  dolore magna aliqua. Ut enim ad"
 
