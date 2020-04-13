@@ -21,8 +21,8 @@ Cleveland, OH"
         link : "contact"
 
     # slider item loop
-    - title : "Applications for the 2020 Lambert and Annetje Van Valkenburg Memorial Scholarship applications are now available!"
-      content : "AWARD AMOUNT: $1,500. All application materials must be submitted via email by March 1, 2020"
+    - title : "2020 Scholarship applications are now available!"
+      content : "Applications for the 2020 Lambert and Annetje Van Valkenburg Memorial Scholarship are now available!.\nAWARD AMOUNT: $1,500. All application materials must be submitted via email by March 1, 2020"
       animation_in : "left"
       animation_out : "right"
       # available animation : left, right, up, down
@@ -51,28 +51,28 @@ banner_feature:
     # feature item loop
     - name : "Geneology Records"
       icon : "ti-book" # icon pack : https://themify.me/themify-icons
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore  dolore magna aliqua. Ut enim ad"
+      content : "Check out our Geneology Records and find your place in the family tree"
 
     # feature item loop
     - name : "Stories"
       icon : "ti-blackboard" # icon pack : https://themify.me/themify-icons
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore  dolore magna aliqua. Ut enim ad"
+      content : "Learn about your ancestors"
 
     # feature item loop
     - name : "Membership"
       icon : "ti-agenda" # icon pack : https://themify.me/themify-icons
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore  dolore magna aliqua. Ut enim ad"
+      content : "Get your membership and join our org today!"
 
     # feature item loop
     - name : "Family Reunion"
       icon : "ti-write" # icon pack : https://themify.me/themify-icons
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore  dolore magna aliqua. Ut enim ad"
+      content : "Come meet some of the family!"
 
 
 ############################## about ##################################
 about:
   enable : true
-  title : "About Educenter"
+  title : "About NAVVF"
   image : "images/about/about-us.jpg"
   content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat  pariatur. Excepteur sint occaecat
 
