@@ -1,9 +1,9 @@
 ---
-title: "Social media and behavior economics conference"
+title: "50th Annual NAVVF Reunion"
 # Schedule page publish date
 publishDate: "2019-01-01T00:00:00Z"
 # event date
-date: "2030-03-09T15:27:17+06:00"
+date: "2020-09-17T15:27:17+06:00"
 # post save as draft
 draft: false
 # page title background image
@@ -13,9 +13,9 @@ description : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do 
 # Event image
 image: "images/events/event-1.jpg"
 # location
-location: "Dhanmondi, Dhaka"
+location: "Cleveland, Ohio"
 # entry fee
-fee: "From: $699"
+fee: "From: $TBD"
 # apply url
 apply_url : "#"
 # event speaker

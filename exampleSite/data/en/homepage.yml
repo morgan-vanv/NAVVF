@@ -93,8 +93,8 @@ course:
 ########################## Call to action ############################
 cta:
   enable : true
-  subtitle : "Click to Join the Advance Workshop"
-  title : "Training In Advannce Networking"
+  subtitle : "Click to Join the"
+  title : "National Association of the Van Valkenburgh Family"
   button:
     enable : true
     label : "join now"
@@ -105,12 +105,8 @@ cta:
 success_story:
   enable : true
   bg_image : "images/backgrounds/success-story.jpg"
-  title : "Success Stories"
-  content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat pariatur. Excepteur sint occaecat.
-            
-            
-  ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
-  dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris"
+  title : "Origins"
+  content : "Lambert of Valkenburg, Netherlands, and Annetie Jacobs of Schleswig, Holstein were married in Amsterdam in 1642 and came to North America in 1644. Their first home in the New World was in Manhattan."
   # video link
   video_link : "https://www.youtube.com/watch?v=ResipmZmpDU"
 
