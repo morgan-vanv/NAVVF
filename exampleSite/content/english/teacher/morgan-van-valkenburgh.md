@@ -1,12 +1,11 @@
 +++
 bg_image = ""
 bio = ""
-course = ""
+course = "Computer Science"
 description = "Morgan Van Valkenburgh"
 image = ""
 interest = ["Applied Mathematics", "Physics", "Programming"]
 title = "Morgan Van Valkenburgh"
-type = "Website Manager"
 [[contact]]
 icon = "ti-linkedin"
 link = "https://www.linkedin.com/in/morgan-van-valkenburgh-383405142/"
