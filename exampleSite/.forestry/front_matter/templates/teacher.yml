@@ -46,5 +46,3 @@ fields:
   name: type
   label: type
   default: teacher
-pages:
-- exampleSite/content/english/teacher/morgan-van-valkenburgh.md
